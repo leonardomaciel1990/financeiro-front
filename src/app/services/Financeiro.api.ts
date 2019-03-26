@@ -1,0 +1,1 @@
+export const FINANCEIRO_API: string = 'http://localhost:8080';
